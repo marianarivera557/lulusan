@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://marianarivera557.github.io/lulusan/sitemap.xml 
